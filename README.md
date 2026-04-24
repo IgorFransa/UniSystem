@@ -73,7 +73,6 @@ O projeto segue boas práticas de organização de design:
   - assets finais (`public/assets/`)
 - Uso de CSS para controle de cores, estados e responsividade
 
-O arquivo de design fonte (`.cdr`) **não é utilizado na aplicação**, servindo apenas como material de criação.
 
 ---
 
